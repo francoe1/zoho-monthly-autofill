@@ -1,0 +1,14 @@
+node_modules/
+.gitnexus/
+.env
+.env.*
+!.env.example
+*.log
+Thumbs.db
+.DS_Store
+
+/release/
+/script/
+/scripts/
+/store/
+/tests/
